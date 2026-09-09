@@ -234,4 +234,4 @@ http://localhost:8080/products
 
 ## 👤 Author
 
-จัดทำโดย [ชื่อผู้พัฒนา] — Lab 8 : Spring Boot + JPA Relationships & Design Patterns
+จัดทำโดย รติมา สวัสดิ์นที 673380055-9 — Lab 8 : Spring Boot + JPA Relationships & Design Patterns
